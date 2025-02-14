@@ -52,6 +52,19 @@ p {
         </style>
 </head>
 <body>
+<?php
+  $Increase1 = 0.1;
+  $Increase2 = 0.15;
+  $Increase3 = 0.20;
+  $Lcost = 150000;
+  $Ccost = 78000;
+  $Dcost = 69000;
+  $Pcost = 12000;
+  $Mcost = 20000;
+
+  $total_cost1 = $Lcost + $Lcost * 0.1;
+  $total_cost2 = $Lcost + $Lcost * 0.15;
+  $total_cost3 = $Lcost + $Lcost * 0.20;
 
     
 </body>

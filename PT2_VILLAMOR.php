@@ -136,6 +136,65 @@ p {
   </tr>
 </table>
 
+<table bgcolor="#84ecbc">
+  <tr align="center">
+    <td>Lumber</td>
+    <td>$150,000,00</td>
+    <td>$<?php echo number_format($total_cost1 ,2);?></td>
+    <td>$<?php echo number_format($total_cost2 ,2);?></td>
+    <td>$<?php echo number_format($total_cost3 ,2);?></td>
+  </tr>
+</table>			
+
+
+<table bgcolor="#89c8f1">
+  <tr align="center">
+    <td>Concrete</td>
+    <td>$78,000,00</td>
+    <td>$<?php echo number_format($total_cost4 ,2);?></td>
+    <td>$<?php echo number_format($total_cost5 ,2);?></td>
+    <td>$<?php echo number_format($total_cost6 ,2);?></td>
+  </tr>
+</table>		
+<table bgcolor="#84ecbc">
+  <tr align="center">
+    <td>Drywalll</td>
+    <td>$69,000,00</td>
+    <td>$<?php echo number_format($total_cost7 ,2);?></td>
+    <td>$<?php echo number_format($total_cost8 ,2);?></td>
+    <td>$<?php echo number_format($total_cost9 ,2);?></td>
+  </tr>
+</table>		
+<table bgcolor="#89c8f1">
+  <tr align="center">
+    <td>Paint</td>
+    <td>$12,000,00</td>
+    <td>$<?php echo number_format($total_cost10 ,2);?></td>
+    <td>$<?php echo number_format($total_cost11 ,2);?></td>
+    <td>$<?php echo number_format($total_cost12 ,2);?></td>
+  </tr>
+</table>		
+<table bgcolor="#84ecbc">	
+  <tr align="center">
+    <td>Miscellaneous</td>
+    <td>$20,000,00</td>
+    <td>$<?php echo number_format($total_cost13 ,2);?></td>
+    <td>$<?php echo number_format($total_cost14 ,2);?></td>
+    <td>$<?php echo number_format($total_cost15 ,2);?></td>
+  </tr>
+</table>
+<br>
+<table class="tb">
+  <tr>
+    <td> Total Expenditures:</td>
+    <td>$<?php echo number_format($Expendituresumcost ,2);?></td>
+    <td>$<?php echo number_format($Expendituresum10 ,2);?></td>
+    <td>$<?php echo number_format($Expendituresum15 ,2);?></td>
+    <td>$<?php echo number_format($Expendituresum20 ,2);?></td>
+  </tr>
+</table>
+<p> Created by:</b> Ashley Jane S. Villamor </p>
+
     
 </body>
 </html>

@@ -28,7 +28,6 @@
         $squares = 0;
         $cubes = 0;
 
-
         $i = 1;
         for ($i = 1; $i <= $n;  $i++) {
             $squares += $i * $i;
